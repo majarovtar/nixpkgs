@@ -16,6 +16,10 @@
 [Nixpkgs](https://github.com/nixos/nixpkgs) is a collection of over 120,000 software packages that can be installed with the [Nix](https://nixos.org/nix/) package manager.
 It also implements [NixOS](https://nixos.org/nixos/), a purely-functional Linux distribution.
 
+## We're hiring!
+
+At Niteo we regularly contribute back to the Open Source community. If you do too, we'd like to invite you to [join our team](https://niteo.co/careers)!
+
 # Manuals
 
 * [NixOS Manual](https://nixos.org/nixos/manual) - how to install, configure, and maintain a purely-functional Linux distribution
@@ -83,3 +87,4 @@ Note:
 MIT license does not apply to the packages built by Nixpkgs, merely to the files in this repository (the Nix expressions, build scripts, NixOS modules, etc.).
 It also might not apply to patches included in Nixpkgs, which may be derivative works of the packages to which they apply.
 The aforementioned artifacts are all covered by the licenses of the respective packages.
+
